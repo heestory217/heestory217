@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheestory217&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p> I am a developer who is interested in JAVA. </p>
-<p> I like to develop many interesting things(So far, most have been developing Website with JAVA, Spring Framework, etc.)</p>
-<p> The main language is Java, and other languages can be used at basic levels.</p>
-
+- 🔭 I'm a Full Stack developer.
+- 🌱 I like to develop many interesting things(So far, most have been developing Website with JAVA, Spring Framework, etc.)
+- 💬 I’m currently learning about Algorithm to solve CodingTest.
 - 📫 How to reach me **heestory217@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heestory217&show_icons=true&theme=nightowl)
